@@ -1,0 +1,5 @@
+.env
+__pycache__/
+venv/
+weather_cache.json
+weather_cache.json.tmp
